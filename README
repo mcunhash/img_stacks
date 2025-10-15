@@ -1,0 +1,16 @@
+# 🖼️ Repositório de Imagens para Stacks e Badges
+
+Este repositório tem como objetivo centralizar e servir imagens para diversos fins, como:
+*   Ícones de tecnologias (badges) para perfis do GitHub (READMEs).
+*   Logos para portfólios pessoais.
+*   Imagens para documentações ou projetos.
+
+Ao invés de depender de serviços externos (como Shields.io ou Skill Icons) ou de links para imagens em outros repositórios, este local permite ter controle total sobre os assets visuais.
+
+---
+
+## 🚀 Como Usar as Imagens
+
+Para utilizar uma imagem deste repositório em seu perfil do GitHub, README de projeto ou qualquer outro lugar que suporte Markdown ou HTML, você precisará do **link direto para o arquivo raw**.
+
+**Estrutura do Link:**
